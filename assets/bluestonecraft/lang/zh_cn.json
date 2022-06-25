@@ -1,0 +1,22 @@
+{
+  "block.bluestonecraft.bluestone_decomposer": "蓝石分解器",
+  "item.bluestonecraft.bluestone_sword": "蓝石剑",
+  "item.bluestonecraft.bluestone_shovel": "蓝石铲",
+  "block.bluestonecraft.bluestone_block": "蓝石块",
+  "item.bluestonecraft.bluestone_pickaxe": "蓝石镐",
+  "advancements.a_bluestone_orgin.descr": "获得一块粗蓝石",
+  "item.bluestonecraft.bluestone_hoe": "蓝石锄",
+  "item.minecraft.lingering_potion.effect.potion_bluestone_energy": "Lingering Potion of Bluestone Energy",
+  "block.bluestonecraft.bluestone_ore": "蓝石矿石",
+  "itemGroup.tabbluestone": "蓝石",
+  "item.bluestonecraft.bluestone_ingot": "蓝石锭",
+  "advancements.a_bluestone_orgin.title": "蓝石起源",
+  "effect.bluestone_energy": "Bluestone Energy",
+  "item.minecraft.tipped_arrow.effect.potion_bluestone_energy": "Arrow of Bluestone Energy",
+  "item.minecraft.splash_potion.effect.potion_bluestone_energy": "Splash Potion of Bluestone Energy",
+  "item.bluestonecraft.bluestone_axe": "蓝石斧",
+  "item.minecraft.potion.effect.potion_bluestone_energy": "Potion of Bluestone Energy",
+  "item.bluestonecraft.bluestone_info": "Bluestone Info",
+  "item.bluestonecraft.bluestone_dust": "蓝石粉",
+  "item.bluestonecraft.raw_bluestone": "粗蓝石"
+}

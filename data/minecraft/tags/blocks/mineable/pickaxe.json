@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "bluestonecraft:bluestone_block",
+    "bluestonecraft:bluestone_decomposer"
+  ]
+}

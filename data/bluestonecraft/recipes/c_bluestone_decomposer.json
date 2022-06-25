@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bluestonecraft:bluestone_dust"
+    },
+    "1": {
+      "item": "minecraft:piston"
+    },
+    "2": {
+      "item": "bluestonecraft:bluestone_dust"
+    },
+    "3": {
+      "item": "bluestonecraft:bluestone_ingot"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "bluestonecraft:bluestone_ingot"
+    },
+    "6": {
+      "item": "minecraft:smooth_stone"
+    },
+    "7": {
+      "tag": "minecraft:anvil"
+    },
+    "8": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "bluestonecraft:bluestone_decomposer",
+    "count": 1
+  }
+}

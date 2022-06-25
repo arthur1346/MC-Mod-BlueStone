@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="bluestonecraft"
+version="1.0.3"
+displayName="BluestoneCraft"
+credits="awaCREEPER"
+displayURL="https://pixel.rth.app"
+logoFile="logo.png"
+authors="awaCREEPER"
+description='''
+I don't know what should I write in this :( Try it in game!
+'''
+
+[[dependencies.bluestonecraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

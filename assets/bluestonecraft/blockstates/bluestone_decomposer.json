@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bluestonecraft:block/bluestone_decomposer"
+    },
+    "facing=east": {
+      "model": "bluestonecraft:block/bluestone_decomposer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bluestonecraft:block/bluestone_decomposer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bluestonecraft:block/bluestone_decomposer",
+      "y": 270
+    }
+  }
+}

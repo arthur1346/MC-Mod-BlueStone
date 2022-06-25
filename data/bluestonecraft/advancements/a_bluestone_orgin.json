@@ -1,0 +1,34 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "bluestonecraft:raw_bluestone"
+    },
+    "title": {
+      "translate": "advancements.a_bluestone_orgin.title"
+    },
+    "description": {
+      "translate": "advancements.a_bluestone_orgin.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_bluestone_orgin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bluestonecraft:raw_bluestone",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bluestonecraft:blocks/furnace_top",
+    "up": "bluestonecraft:blocks/furnace_top",
+    "north": "bluestonecraft:blocks/decomposer",
+    "east": "bluestonecraft:blocks/furnace_side",
+    "south": "bluestonecraft:blocks/furnace_side",
+    "west": "bluestonecraft:blocks/furnace_side",
+    "particle": "bluestonecraft:blocks/furnace_top"
+  }
+}

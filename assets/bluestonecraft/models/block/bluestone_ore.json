@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bluestonecraft:blocks/bluestone_ore",
+    "up": "bluestonecraft:blocks/bluestone_ore",
+    "north": "bluestonecraft:blocks/bluestone_ore",
+    "east": "bluestonecraft:blocks/bluestone_ore",
+    "south": "bluestonecraft:blocks/bluestone_ore",
+    "west": "bluestonecraft:blocks/bluestone_ore",
+    "particle": "bluestonecraft:blocks/bluestone_ore"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bluestonecraft:block/bluestone_block"
+    }
+  }
+}

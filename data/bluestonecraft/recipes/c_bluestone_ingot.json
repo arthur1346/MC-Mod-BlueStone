@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bluestonecraft:bluestone_dust"
+    },
+    "1": {
+      "item": "bluestonecraft:bluestone_dust"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "bluestonecraft:bluestone_dust"
+    },
+    "4": {
+      "item": "bluestonecraft:bluestone_dust"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "7": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "8": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "bluestonecraft:bluestone_ingot",
+    "count": 2
+  }
+}

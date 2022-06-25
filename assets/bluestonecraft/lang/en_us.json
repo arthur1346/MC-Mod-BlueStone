@@ -1,0 +1,22 @@
+{
+  "block.bluestonecraft.bluestone_decomposer": "Bluestone Decomposer",
+  "item.bluestonecraft.bluestone_sword": "Bluestone Sword",
+  "item.bluestonecraft.bluestone_shovel": "Bluestone Shovel",
+  "block.bluestonecraft.bluestone_block": "Bluestone Block",
+  "item.bluestonecraft.bluestone_pickaxe": "Bluestone Pickaxe",
+  "advancements.a_bluestone_orgin.descr": "Get A Raw Bluestone",
+  "item.bluestonecraft.bluestone_hoe": "Bluestone Hoe",
+  "item.minecraft.lingering_potion.effect.potion_bluestone_energy": "Lingering Potion of Bluestone Energy",
+  "block.bluestonecraft.bluestone_ore": "Bluestone Ore",
+  "item.bluestonecraft.bluestone_ingot": "Bluestone Ingot",
+  "itemGroup.tabbluestone": "Bluestone",
+  "advancements.a_bluestone_orgin.title": "The Orgin Of Bluestones",
+  "effect.bluestone_energy": "Bluestone Energy",
+  "item.minecraft.tipped_arrow.effect.potion_bluestone_energy": "Arrow of Bluestone Energy",
+  "item.minecraft.splash_potion.effect.potion_bluestone_energy": "Splash Potion of Bluestone Energy",
+  "item.bluestonecraft.bluestone_axe": "Bluestone Axe",
+  "item.minecraft.potion.effect.potion_bluestone_energy": "Potion of Bluestone Energy",
+  "item.bluestonecraft.bluestone_info": "Bluestone Info",
+  "item.bluestonecraft.bluestone_dust": "Bluestone Dust",
+  "item.bluestonecraft.raw_bluestone": "Raw Bluestone"
+}
