@@ -7,5 +7,4 @@
 ![PNG](MarkDownPNG/bluestone_sword.png "SWORD") ![PNG](MarkDownPNG/bluestone_ingot.png "INGOT")
 
 
-###### (I'm his deputy)
 ###### My Email: <notcreeperxd@gmail.com>
